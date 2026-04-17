@@ -6,8 +6,8 @@ The code is based on the code that was made available with the paper, but should
 To install the package run the following:
 ```
 library(devtools)
-install_github("jonlachmann/glassor")
-install_github("jonlachmann/sparsecoint")
+install_github("FAForecasting/glassor")
+install_github("FAForecasting/sparsecoint")
 ```
 To build a model the function ```sparsecoint``` is used, an example is given below, where a forecast is also made and plotted:
 ```
